@@ -1,5 +1,21 @@
 .App {
   text-align: center;
+  
+  background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+  
+}
+
+
+.addContact{
+    background-color: linear-gradient(to right, #fc5c7d, #6a82fb);
+    width: auto;
+    height: 660px;
+    
+}
+.editContact{
+  background-color: linear-gradient(to right, #fc5c7d, #6a82fb);
+  width: auto;
+  height: 660px;
 }
 
 .App-logo {
